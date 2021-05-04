@@ -1,0 +1,30 @@
+package variaveis;
+
+public class TiposDados {
+	
+public static void main(String[] args) {
+	
+String nome = "Marcos R Ferreira";
+int idade = 47;
+double altura = 1.85;
+System.out.print(nome);
+System.out.print(idade);
+System.out.print(altura);
+	
+		
+	
+} // fechando o método (start point de uma aplicação java)
+
+} // fechando a classe
+
+/*
+ * Ctrl+i (identação)
+ * Ctrl+Shift+S (Salva tudo)
+ * Ctrl+Z (voltar)
+ * Ctrl+A (Marcar Tudo)
+ * 
+ * Tipo de dados:
+ * -Numerico: É o Dado que pode ser utilizado em expressões matematicas;
+ * -Alfanumérico: 
+ * 
+ */

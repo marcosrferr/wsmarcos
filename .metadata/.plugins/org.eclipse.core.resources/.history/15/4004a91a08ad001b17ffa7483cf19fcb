@@ -1,0 +1,14 @@
+package decisao;
+
+public class ListaExercicioQuatro {
+
+	public static void main(String[] args) {
+		
+		/* Escreva um código que leia três valores inteiros e diferentes e mostre-os em ordem decrescente. (15:20)
+		 * 		
+		 */
+		
+		
+	}
+
+}
