@@ -22,6 +22,7 @@ public class ManipulaString {
 		//     h u m b e r t o @ f i a 
 		//(-1) 0 1 2 3 4 5 6 7 8 9 ...
 
+				
 	}
 		
 	}		

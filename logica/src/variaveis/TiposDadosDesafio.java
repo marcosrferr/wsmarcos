@@ -17,7 +17,7 @@ public class TiposDadosDesafio {
 	System.out.println("Valor Venda......: " + valorvenda);
 	System.out.println("Total Sem Imposto: " + totalsemimposto);
 			
-		
+
 }
 	
 }
