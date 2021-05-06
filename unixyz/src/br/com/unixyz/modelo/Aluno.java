@@ -62,8 +62,9 @@ public class Aluno {
 	
 	public String getResumo() {
 		return
-				"nome: " + nome +
-				"rm: "+ rm;
+				"Nome..: " + nome + "\n"+
+				"RM....: " + rm;
+			
 			}
 	
 	public String getUsuario() {
