@@ -8,6 +8,7 @@ public class DashCardApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DashCardApplication.class, args);
+		
 	}
 
 }
