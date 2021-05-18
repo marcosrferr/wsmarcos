@@ -101,7 +101,6 @@ INDEX VERSION 1.131+C:\Users\007338304\Desktop\turma18c\wsmarcos\.metadata\.plug
 3848653996.index
 2200875372.index
 4159017284.index
-413879280.index
 3370417497.index
 3050837743.index
 2296325567.index
